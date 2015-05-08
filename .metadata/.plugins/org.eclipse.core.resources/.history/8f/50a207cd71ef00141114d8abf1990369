@@ -1,0 +1,24 @@
+
+public class CalculateArea {
+
+	public static void main(String[] args) {
+	
+	}
+	// This tells the area of the circle and its half point.
+	 static double CalculateCircleArea (int radius)
+	 {
+		 double area= 3.14* radius* radius;
+		 return area;
+				 
+	 }
+	 static double CalculateRectangleArea(int length,int breadth){
+		double area= length* breadth;
+		return area;
+		 
+		
+	 }
+	 
+}
+	 
+
+
